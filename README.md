@@ -1,4 +1,4 @@
-Even and Odd Checker
+<h1>Even and Odd Checker</h1>
 This is a simple HTML program that allows users to input a number and check whether it is even or odd. It's a basic exercise in JavaScript programming.
 
 How to Use
